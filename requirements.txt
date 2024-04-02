@@ -1,0 +1,6 @@
+crewai
+crewai[tools]
+-U duckduckgo-search
+streamlit
+pydantic
+-U textwrap3
